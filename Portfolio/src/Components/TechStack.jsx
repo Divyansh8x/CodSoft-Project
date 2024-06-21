@@ -73,7 +73,7 @@ const TechStack = () => {
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
-          <p className="text-3xl font-bold border-b-4 border-gray-500 p-2 inline">
+          <p className="text-3xl font-bold border-b-4 border-gray-500 pt-10 p-2 inline">
             Experience
           </p>
           <p className="py-6 text-base mt-1 md:text-xl">
