@@ -1,6 +1,6 @@
 import { lazy, Suspense } from "react";
 import Lottie from "react-lottie";
-import animationData from "./assets/Loading.json";
+import animationData from "./assets/Loader.json";
 
 const Navbar = lazy(() => import("./Components/Navbar"));
 const Home = lazy(() => import("./Components/Home"));
