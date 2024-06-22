@@ -15,15 +15,14 @@ const Home = () => {
             I am a Frontend Developer
           </h2>
           <p className="text-gray-500 py-4 text-sm sm:text-base md:text-lg max-w-lg text-center md:text-left">
-            I am a Computer Science Engineer specializing in frontend
-            development. My diverse experience enables me to merge technical
-            proficiency with an understanding of business needs, fostering
-            growth and innovation through technology. With experience in
-            full-stack development, I focus on delivering intuitive and
-            effective solutions that meet both user and business requirements.
-            My background in Business Analytics enhances my ability to translate
-            data into actionable insights, allowing for informed decision-making
-            and strategic planning.
+            Computer Science Engineer specializing in frontend development. My
+            diverse experience enables me to merge technical proficiency with an
+            understanding of business needs, fostering growth and innovation
+            through technology. With experience in full-stack development, I
+            focus on delivering intuitive and effective solutions that meet both
+            user and business requirements. My background in Business Analytics
+            enhances my ability to translate data into actionable insights,
+            allowing for informed decision-making and strategic planning.
           </p>
           <Link
             to="projects"
