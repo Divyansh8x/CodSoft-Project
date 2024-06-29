@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../assets/Divyansh_Resume.pdf";
+import Resume from "../assets/Divyansh_Singh.pdf";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { BsTwitterX } from "react-icons/bs";
 import { BsFillPersonLinesFill } from "react-icons/bs";
